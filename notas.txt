@@ -1,0 +1,4 @@
+Profesora todas las librerias estan en la carpeta jar
+el login es:
+usuario : pauca
+contraseña : 99669605
